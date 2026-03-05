@@ -1,6 +1,6 @@
 # 📦 Sistem Pengiriman Barang — ShipEasy
 
-Aplikasi manajemen pengiriman barang berbasis web dibangun menggunakan **Laravel 11** dan **MySQL**. Mengelola seluruh alur pengiriman dari pembuatan order hingga paket sampai ke tangan penerima.
+Aplikasi manajemen pengiriman barang berbasis web dibangun menggunakan **Laravel 12** dan **MySQL**. Mengelola seluruh alur pengiriman dari pembuatan order hingga paket sampai ke tangan penerima.
 
 ---
 
