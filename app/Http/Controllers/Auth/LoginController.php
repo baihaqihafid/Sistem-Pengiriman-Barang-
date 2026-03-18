@@ -6,13 +6,6 @@ use Illuminate\Support\Facades\Auth;
 
 class LoginController extends Controller {
     public function showLoginForm() {
-        if (Auth::check()) {
-            return match(Auth::user()->role) {
-                'admin'   => redirect('/admin/dashboard'),
-                'courier' => redirect('/courier/dashboard'),
-                default   => redirect('/customer/dashboard'),
-            };
-        }
         return view('auth.login');
     }
 
