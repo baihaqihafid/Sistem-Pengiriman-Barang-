@@ -3,7 +3,27 @@
 Aplikasi manajemen pengiriman barang berbasis web dibangun menggunakan **Laravel 12** dan **MySQL**. Mengelola seluruh alur pengiriman dari pembuatan order hingga paket sampai ke tangan penerima.
 
 ---
+## 📱 Screenshots
 
+<table>
+  <tr>
+    <td align="center"><strong>🔐 Login</strong></td>
+    <td align="center"><strong>👨‍💼 Dashboard Admin</strong></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/login.png" width="400"/></td>
+    <td><img src="screenshots/dashboard.png" width="400"/></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>📦 Form Kirim Paket</strong></td>
+    <td align="center"><strong>🔍 Tracking Paket</strong></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/order.png" width="400"/></td>
+    <td><img src="screenshots/tracking.png" width="400"/></td>
+  </tr>
+</table>
+---
 ## 👥 Role Pengguna
 
 ### 👨‍💼 Admin
