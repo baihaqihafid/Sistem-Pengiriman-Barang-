@@ -11,16 +11,16 @@ Aplikasi manajemen pengiriman barang berbasis web dibangun menggunakan **Laravel
     <td align="center"><strong>👨‍💼 Dashboard Admin</strong></td>
   </tr>
   <tr>
-    <td><img src="screenshots/login.png" width="400"/></td>
-    <td><img src="screenshots/dashboard.png" width="400"/></td>
+    <td><img src="screenshots/login.png" width="500"/></td>
+    <td><img src="screenshots/dashboard.png" width="500"/></td>
   </tr>
   <tr>
     <td align="center"><strong>📦 Form Kirim Paket</strong></td>
     <td align="center"><strong>🔍 Tracking Paket</strong></td>
   </tr>
   <tr>
-    <td><img src="screenshots/order.png" width="400"/></td>
-    <td><img src="screenshots/tracking.png" width="400"/></td>
+    <td><img src="screenshots/order.png" width="500"/></td>
+    <td><img src="screenshots/tracking.png" width="500"/></td>
   </tr>
 </table>
 ---
